@@ -12,6 +12,10 @@ The code has been structured in different ways:
   - Consists of all the files needed to recreate the project in Vivado, to be able to generate bitstream files and/or continue development of project.
 - Vitis
   - Consists of all the files needed to recreate the project in Vitis, to be able to compile elf files and/or continue development of project.
+- CSPClient
+  - Contains the software used to act as a CSP client on CAN bus.
+- Python
+  - Contains the python scripts used in the project.
 
 - .github
   - Repo with files specific for presentation of the github organisation
