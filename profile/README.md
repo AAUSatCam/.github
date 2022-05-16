@@ -1,5 +1,5 @@
 # Reading instructions
-This organisation is used to provide source code for the AAU Sat Cam project for group es-22-eit-4-410 <es-22-eit-4-410@student.aau.dk> at Aalborg University, anno 2021.
+This organisation is used to provide source code for the AAU Sat Cam project for group es-22-eit-4-410 <es-22-eit-4-410@student.aau.dk> at Aalborg University, anno 2022.
 
 The code has been structured in different ways:
 - FPGA
