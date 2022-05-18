@@ -17,5 +17,8 @@ The code has been structured in different ways:
 - Python
   - Contains the python scripts used in the project.
 
+- Matlab
+  - Contains Matlab scripts used for verifying the compression algorithm.
+
 - .github
   - Repo with files specific for presentation of the github organisation
